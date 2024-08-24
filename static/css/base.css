@@ -22,3 +22,8 @@ body {
     background: url('/media/her02.png') no-repeat center center fixed;
     background-size: cover;
 }
+
+
+.bg-black {
+    background: #000 !important
+}
